@@ -2,6 +2,8 @@
 echo $1 $2 $3 are your inputs
 echo $1 " is an arguement, so is "$2
 
+# Passing arguements 
+
 # To print the script name, just use $0 which is an arguement
 
 echo $0 should now be the script name!

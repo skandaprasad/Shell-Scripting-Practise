@@ -1,5 +1,7 @@
 #! /usr/bin/bash
 
+# To read inputs from user
+
 echo "What's your name?"
 read name
 echo Hello and welcome $name

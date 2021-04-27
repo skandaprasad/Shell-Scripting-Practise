@@ -1,4 +1,4 @@
-#! /usr/bin/zsh
+#! /usr/bin/bash
 #This is a comment
 name=Skanda
 echo "My name is " $name

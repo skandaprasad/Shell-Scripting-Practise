@@ -7,6 +7,7 @@
 # then
 # 	statement
 # fi
+# elif then can also be used
 
 count=30
 if [ $count -eq 30 ]
