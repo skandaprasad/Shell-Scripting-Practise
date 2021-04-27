@@ -10,7 +10,7 @@ echo "Thank you, you may proceed to go to hell"
 echo "Oh yes! Your marks are" $m1 $m2 $m3
 
 echo "Come back for a sec!"
-read -p "What's your age bruh? : "  age
+read -p "What's your age bruh? : " age
 echo $age "is your age"
 
 echo "Enter other names : "
